@@ -7,8 +7,7 @@ nobind
 persist-key
 persist-tun
 client
-verb 3
-#auth-user-pass
+verb 
 
 <ca>
 -----BEGIN CERTIFICATE-----
